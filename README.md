@@ -1,6 +1,6 @@
 # Memory Game (Hafıza Oyunu)
 
-Java ile yazılmış basit bir kart eşleştirme oyunu.
+Java ile yazılmış bir kart eşleştirme oyunu.
 
 ---
 
